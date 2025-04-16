@@ -13,72 +13,63 @@ const introdata = {
     third: "I can take your production process to the next level",
   },
   description:
-    "Building Seamless Solutions, Bridging Code, Hardware, and Innovation. You want it,I can make it happen",
+    "Building Seamless Solutions, bridging Code, Hardware, and Innovation. You want it,I can make it happen",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "I am a engineer with real life experience in small and large scale application looking to help local business thrive in this hyper aggresive world. Any problem is just an interesting new puzzle for me that i cannot wait to solve and the satisfaction on my clients face is priceless when i deliver my products. ",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "Solution 1",
+    where: "Cluj",
     date: "2020",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
+    jobtitle: "Solution 2",
+    where: "Brasov",
     date: "2019",
   },
   {
-    jobtitle: "Designer of week",
-    where: "ALquds",
+    jobtitle: "Solution 3",
+    where: "Bucharest",
     date: "2019",
   },
 ];
 
 const skills = [
   {
-    name: "Python",
+    name: "Programming",
     value: 90,
   },
   {
-    name: "Djano",
+    name: "Software Arhitecture",
     value: 85,
   },
   {
-    name: "Javascript",
+    name: "Industrial process automation",
     value: 80,
   },
   {
-    name: "React",
+    name: "Continious development and continious delivery",
     value: 60,
-  },
-  {
-    name: "Jquery",
-    value: 85,
-  },
+  }
 ];
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "Process Automation",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Even if the process in question is digital, electrical or mechanical if there is a more efficient way to do it i can find it for you!",
   },
   {
-    title: "Mobile Apps",
+    title: "Software solutions",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-  },
-  {
-    title: "Wordpress Design",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-  },
+      "Sleak moderna nd efficient my software solution will bridge any gaps in your workflow and improve the efficency of your business.",
+  }
 ];
 
 const dataportfolio = [
