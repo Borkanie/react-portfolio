@@ -1,4 +1,4 @@
-const logotext = "BBI Solutions";
+const logotext = "[ BBI ]";
 const meta = {
   title: "Boboc Bogdan Ioan",
   description:
@@ -6,14 +6,14 @@ const meta = {
 };
 
 const introdata = {
-  title: "I’m Bogdan",
+  title: "I'm Bogdan",
   animated: {
-    first: "I love engineering",
-    second: "I provide scalable solutions",
-    third: "I can take your production process to the next level",
+    first: "I love engineering, porblem solving and a good challange",
+    second: "I provide scalable solutions with a robust resilient maintenance contract for any software I release.",
+    third: "I can provide any specialized software solution you are looking for!",
   },
   description:
-    "Building Seamless Solutions, bridging Code, Hardware, and Innovation. You want it,I can make it happen",
+    "Building Seamless Solutions, bridging Code, Hardware, and Innovation. You need it, I make it real!",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -24,19 +24,49 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Solution 1",
-    where: "Cluj",
-    date: "2020",
-  },
-  {
-    jobtitle: "Solution 2",
-    where: "Brasov",
-    date: "2019",
-  },
-  {
-    jobtitle: "Solution 3",
+    jobtitle:
+      "(Linux) Automated trading solution for brokers looking to automate the crypto market and ensure small daily wins.",
     where: "Bucharest",
-    date: "2019",
+    date: "2021",
+  },
+  {
+    jobtitle:
+      "(Windows) Personalized message chat for a small indie company with local data hosting to ensure security of data.",
+    where: "Bucharest",
+    date: "2022",
+  },
+  {
+    jobtitle:
+      "Software Engineer for Bosch working on a industrial scale Model Languace converter",
+    where: "Bucharest",
+    date: "2022",
+  },
+  {
+    jobtitle:
+      "(Embedded) Automated Aircraft controller for a fixed wing body in the presence of wind.",
+    where: "Cluj-Napoca",
+    date: "2022",
+  },
+  {
+    jobtitle: "Software Engineer working for ASML on lithography Systems ",
+    where: "Cluj-Napoca",
+    date: "2022",
+  },
+  {
+    jobtitle:
+      "(Windows) Specialized Human Machine interface for new printers on automated lines for Airbus",
+    where: "Brasov",
+    date: "2024",
+  },
+  {
+    jobtitle: "Software Engineer for Betfair working on Pokerstars systems.",
+    where: "Cluj-Napoca",
+    date: "2025",
+  },
+  {
+    jobtitle: "Looking for new quests!!",
+    where: "Cluj-Napoca",
+    date: "2025",
   },
 ];
 
@@ -61,14 +91,13 @@ const skills = [
 
 const services = [
   {
-    title: "Process Automation",
+    title: "Custom Solutions Delivery",
     description:
-      "Even if the process in question is digital, electrical or mechanical if there is a more efficient way to do it i can find it for you!",
+      "Even if the process in question is digital, electrical or mechanical if there is a more efficient way to do it I can find it for you!",
   },
   {
-    title: "Software solutions",
-    description:
-      "Sleak moderna nd efficient my software solution will bridge any gaps in your workflow and improve the efficency of your business.",
+    title: "Feature implementation and system maintenance",
+    description:"Are you working on a project and are in need of a Backend engineer with knowledge of OOP and embedded development? I would love to be part of your team!",
   }
 ];
 
