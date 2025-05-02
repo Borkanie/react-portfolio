@@ -103,9 +103,9 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "/images/stocks.jpg",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Automated trading solution for brokers looking to automate the crypto market and ensure small daily wins.",
     link: "#",
   },
   {
