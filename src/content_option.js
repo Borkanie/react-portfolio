@@ -1,3 +1,12 @@
+import stocksImg from "./assets/images/stocks.jpg";
+import messaging from "./assets/images/messaging.webp";
+import ASML from "./assets/images/ASML.jpg";
+import Bosch from "./assets/images/Bosch.png";
+import jet3up from "./assets/images/jet3up.webp";
+import aircraft from "./assets/images/aircraft.jpg";
+import Pokerstars from "./assets/images/PSC.jpg";
+
+
 const logotext = "[ BBI ]";
 const meta = {
   title: "Boboc Bogdan Ioan",
@@ -9,8 +18,10 @@ const introdata = {
   title: "I'm Bogdan",
   animated: {
     first: "I love engineering, porblem solving and a good challange",
-    second: "I provide scalable solutions with a robust resilient maintenance contract for any software I release.",
-    third: "I can provide any specialized software solution you are looking for!",
+    second:
+      "I provide scalable solutions with a robust resilient maintenance contract for any software I release.",
+    third:
+      "I can provide any specialized software solution you are looking for!",
   },
   description:
     "Building Seamless Solutions, bridging Code, Hardware, and Innovation. You need it, I make it real!",
@@ -25,13 +36,13 @@ const dataabout = {
 const worktimeline = [
   {
     jobtitle:
-      "(Linux) Automated trading solution for brokers looking to automate the crypto market and ensure small daily wins.",
+      "Automated trading solution for brokers looking to automate the crypto market and ensure small daily wins.",
     where: "Bucharest",
     date: "2021",
   },
   {
     jobtitle:
-      "(Windows) Personalized message chat for a small indie company with local data hosting to ensure security of data.",
+      "Personalized messaging solution for a small indie company with local data hosting to ensure security of data.",
     where: "Bucharest",
     date: "2022",
   },
@@ -43,7 +54,7 @@ const worktimeline = [
   },
   {
     jobtitle:
-      "(Embedded) Automated Aircraft controller for a fixed wing body in the presence of wind.",
+      "Automated Aircraft controller for a fixed wing body in the presence of wind.",
     where: "Cluj-Napoca",
     date: "2022",
   },
@@ -86,7 +97,7 @@ const skills = [
   {
     name: "Continious development and continious delivery",
     value: 60,
-  }
+  },
 ];
 
 const services = [
@@ -97,82 +108,50 @@ const services = [
   },
   {
     title: "Feature implementation and system maintenance",
-    description:"Are you working on a project and are in need of a Backend engineer with knowledge of OOP and embedded development? I would love to be part of your team!",
-  }
+    description:
+      "Are you working on a project and are in need of a Backend engineer with knowledge of OOP and embedded development? I would love to be part of your team!",
+  },
 ];
 
 const dataportfolio = [
   {
-    img: "/images/stocks.jpg",
+    img: stocksImg,
     description:
       "Automated trading solution for brokers looking to automate the crypto market and ensure small daily wins.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: messaging,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      " Personalized message chat for a small indie company with local data hosting to ensure security of data.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    img: ASML,
+    description: "Software Engineer for ASML on lithography Systems",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: Bosch,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Software Engineer for Bosch working on a industrial scale Model Languace converter",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: jet3up,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Specialized Human Machine interface for new printers on automated lines for Airbus",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: aircraft,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Automated Aircraft controller for a fixed wing body in the presence of wind.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    img: Pokerstars,
+    description: "Software Engineer for Betfair working on Pokerstars systems.",
     link: "#",
   },
 ];
