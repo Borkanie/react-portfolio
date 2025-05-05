@@ -1,7 +1,7 @@
 import stocksImg from "./assets/images/stocks.jpg";
 import messaging from "./assets/images/messaging.webp";
 import ASML from "./assets/images/ASML.jpg";
-import Bosch from "./assets/images/Bosch.png";
+import Bosch from "./assets/images/Bosch.webp";
 import jet3up from "./assets/images/jet3up.webp";
 import aircraft from "./assets/images/aircraft.jpg";
 import Pokerstars from "./assets/images/PSC.jpg";
@@ -163,9 +163,9 @@ const contactConfig = {
     "Looking for an upgrade at for your company? Look no further, I have the solution for any issue you are facing. Let's get in touch I am looking forward to colaborate with you !",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_n0i5xh2",
+  YOUR_TEMPLATE_ID: "template_ivfxwjo",
+  YOUR_USER_ID: "GVQFPIvIcCtU-zlTO",
 };
 
 const socialprofils = {
