@@ -17,11 +17,11 @@ const meta = {
 const introdata = {
   title: "I'm Bogdan",
   animated: {
-    first: "I love engineering, porblem solving and a good challange",
+	  first: "I love engineering, porblem solving and a good challange",
     second:
-      "I provide scalable solutions with a robust resilient maintenance contract for any software I release.",
+      "I provide scalable solutions with for any issues you struggle with.",
     third:
-      "I can provide any specialized software solution you are looking for!",
+      "I can provide any specialized industrial solution you are looking for!",
   },
   description:
     "Building Seamless Solutions, bridging Code, Hardware, and Innovation. You need it, I make it real!",
